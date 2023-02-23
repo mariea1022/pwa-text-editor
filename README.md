@@ -28,6 +28,12 @@ You can find the dependencies I've installed for this project in the package.jso
 
 Once you're on the web page, you can enter any text in the text editor, and that data will be saved if you click anywhere outside the DOM window. To dowload the application, to be used outside of the browser, you can click the Install button or click the install icon on the right hand side of the url bar.
 
+Here is what the application looks like on the browser.
+![image of app on the browser](assets/browser-image.png)
+
+Here is what the application looks like after installed.
+![image of app outside of browser](assets/installed-app-image.png)
+
 ## Credits
 
 N/A
