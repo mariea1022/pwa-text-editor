@@ -31,8 +31,7 @@ export const putDb = async (content) => {
   // Get confirmation of the request.
   const result = await request;
   console.log('🚀 - data saved to the database', result);
-  // how to add an error message here?
-  console.error('putDb not implemented');
+  // console.error('putDb not implemented');
 }
 
 // TODO: Add logic for a method that gets all the content from the database
@@ -50,8 +49,7 @@ export const getDb = async () => {
   const result = await request;
   console.log('result.value', result);
   return result;
-  // how to add an error message here?
-  console.error('getDb not implemented');
+  // console.error('getDb not implemented');
 }
 
 initdb();
